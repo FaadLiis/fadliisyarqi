@@ -23,7 +23,7 @@
 
      <!--  jumbotron -->
 <div class="jumbotron text-center">
-   <img src="img/fadli.JPG" class="img-circle" >
+   <img src="img/fadli.jpg" class="img-circle" >
       <h1>𝓜𝓾𝓱𝓪𝓶𝓶𝓪𝓭 𝓕𝓪𝓭𝓵𝓲 𝓘𝓼𝔂𝓪𝓻𝓺𝓲</h1>
       <p>Calon  Sarjana Muda</p>
   </div>

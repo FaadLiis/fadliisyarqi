@@ -41,11 +41,9 @@
        </div>
 
        <div class="row text-center">
-        <div class="col-sm-4 col-sm-offset-1">
-          <p class="pKiri">Hallo Gaiss</p>
-        </div>
-        <div class="col-sm-4 col-sm-offset-1" >
-          <p class="pKanan">Hallo Gaiss</p>
+
+          <p class="text-center">Hai, Selamat datang di Website iseng - iseng berhadiah.
+          </p>
         </div>
   
        </div>
@@ -102,7 +100,7 @@
 <!--Akhir Portfolio -->
 
 <!-- contact -->
-<section class="contact" id="contact"> 
+<!-- <section class="contact" id="contact"> 
   <div class="container">
     <div class="row">
       <div class="col-sm-12 text-center">
@@ -137,7 +135,7 @@
       </div>
     </div>
   </div>
-</section>
+</section> -->
 <!-- akhir contact -->
 
 <!-- Footer -->
@@ -175,7 +173,6 @@
         <ul class="nav navbar-nav navbar-right">
           <li><a href="#about" class="page-scroll">ᴀʙᴏᴜᴛ ᴍᴇ</a></li>
           <li><a href="#portfolio" class="page-scroll">ᴘᴏʀᴛꜰᴏʟɪᴏ</a></li>
-          <li><a href="#contact" class="page-scroll">ᴄᴏɴᴛᴀᴄᴛ</a></li>
         </ul>
       </div>
     </div>
